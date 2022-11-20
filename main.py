@@ -2,7 +2,8 @@ from turtle import Turtle, Screen
 
 # TODO 1: Crear objeto 'timmy_the_tutle'
 timmy_the_tutle = Turtle()
-
+timmy_the_tutle.shape('turtle')
+timmy_the_tutle.color('medium slate blue')
 
 
 
